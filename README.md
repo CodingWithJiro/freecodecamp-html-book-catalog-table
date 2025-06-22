@@ -9,6 +9,7 @@
 ![Beginner Project](https://img.shields.io/badge/Beginner%20Project-25D366?style=for-the-badge)
 ![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5cb7a27d-0f25-4b37-80c9-59fb3c170209/deploy-status)](https://book-catalog-table-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
 
@@ -65,7 +66,7 @@ This project is a beginner-level exercise that uses pure HTML5 to present a cata
 
 ## 🌐 Live Demo
 
-Or you can check out the 👉 [live website here](SITE_LINK)
+Or you can check out the 👉 [live website here](https://book-catalog-table-fcc-jiro.netlify.app/)
 
 ---
 
