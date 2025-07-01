@@ -12,6 +12,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5cb7a27d-0f25-4b37-80c9-59fb3c170209/deploy-status)](https://book-catalog-table-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%201-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-html-book-catalog-table&left_text=repo%20views)
 
 ## ℹ️ A Simple HTML Table for Book Listings
 
